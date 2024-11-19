@@ -28,3 +28,4 @@ function draw() {
     }
    
 }
+Jogo do pongestá licenciado sob CC BY-ND 4.0© 2 por Lorrany Vitória Solomine 
